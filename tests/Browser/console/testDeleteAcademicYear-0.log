@@ -1,0 +1,14 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost:81\/sms5\/public\/js\/sms.js 0:10 Uncaught ReferenceError: require is not defined",
+        "source": "javascript",
+        "timestamp": 1499256715335
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost:81\/sms5\/public\/js\/sms.js 0:10 Uncaught ReferenceError: require is not defined",
+        "source": "javascript",
+        "timestamp": 1499256718707
+    }
+]

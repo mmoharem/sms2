@@ -1,0 +1,42 @@
+<?php
+
+return [
+
+	"title"              => "Title",
+	"school"             => "Institution",
+	"new"                => "New",
+	"delete"             => "Delete Invoice",
+	"edit"               => "Edit Registration",
+	"subject_id"         => "Course",
+	"subject"            => "Course",
+	"date"               => "Date",
+	"registration"       => "Registration",
+	"student"            => "Student",
+	"students"           => "Student(s)",
+	"description"        => "Description",
+	"remarks"            => "Remarks",
+	"semester"           => "Semester",
+	"select_semester"    => "Select Semester",
+	"first_name"         => "First Name",
+	"last_name"          => "Last Name",
+	"select_all_courses" => "Select all Courses",
+	"full_name"          => "Full Name",
+	"not_registered"     => "Not Registered",
+	"total_in_section"   => "Total in Section",
+	"section"            => "Section",
+	"total"              => "Total",
+	"select_subject"     => "Select Course",
+	"mid_sem"            => "Middle Semester",
+	"credit"             => "Credit",
+	"grade"              => "Grade",
+	"exam_score"         => "Exam Score",
+	"exams"              => "Exams",
+	"school_phone"       => "Institution Phone",
+	"school_email"       => "Institution Email",
+	"create_date"        => "Create Date",
+	"results"            => "Results",
+	"id"                 => "Number",
+	"school_year"        => "Year",
+
+
+];

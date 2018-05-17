@@ -1,0 +1,33 @@
+<?php
+
+return [
+
+    "title" => "Title",
+    "id_code" => "Number",
+    "school" => "Institution",
+    "delete" => "Delete Year",
+    "edit" => "Edit Year",
+    "details" => "Year Details",
+    "new" => "New Year",
+    "schoolyear" => "Year",
+    "copy_sections_students" => "Promote Students",
+    "copy_sections_students_to" => "Copy Sections and Students to another Year ",
+    "schoolyear_select" => "Select Year",
+    "schoolyear_select_info" => "Select Year from which you want copy Sections and Students",
+    "type_new_names" => "Type new Names for Sections in another Year ",
+    "type_new_names_continue" => "Do not name Sections that you do not need in another Year ",
+    "section_select" => "Select Section",
+    "select_school" => "Select Institution",
+    "section" => "Section",
+    "section_name" => "Type Section Name in selected Year",
+    "select_students" => "Select Students going to this Section",
+    "select_all_students" => "Select all Students",
+    "make_alumini" => "Generate Alumini ",
+    "get_alumini" => "Get Alumini ",
+    "alumini_title" => "Alumini Title",
+    "select_alumini" => "Select Alumini",
+    "alumini_note" => "Make Aluminiti from Students that are in the final Year of the Study Programme. This works for one or all Institutions if none Institution selected.",
+    "students_by_school" => "Students by Institution",
+    "students" => "Students",
+    "school" => "Institution",
+];

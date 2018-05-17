@@ -1,0 +1,20 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost:81\/sms5\/public\/js\/sms.js 0:10 Uncaught ReferenceError: require is not defined",
+        "source": "javascript",
+        "timestamp": 1499256700324
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost:81\/sms5\/public\/img\/fav.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1499256700798
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost:81\/sms5\/public\/js\/sms.js 0:10 Uncaught ReferenceError: require is not defined",
+        "source": "javascript",
+        "timestamp": 1499256706014
+    }
+]
