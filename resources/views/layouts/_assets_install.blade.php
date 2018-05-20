@@ -4,6 +4,7 @@
 <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <![endif]-->
+<link rel="stylesheet" href="{{asset('adminpanel/css/bootstrap.min.css')}}">
 <link href="{{ asset('css/libs.css') }}" rel="stylesheet" type="text/css"/>
 <link href="{{ asset('css/sms.css') }}" rel="stylesheet" type="text/css">
 <link href="{{ asset('css/icheck.css') }}" rel="stylesheet" type="text/css">
